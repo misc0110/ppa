@@ -3,7 +3,7 @@ Version: 0.3
 Architecture: amd64
 Maintainer: Michael Schwarz <michael.schwarz91@gmail.com>
 Depends: libpoppler-qt5-1, texlive-latex-base, ktexteditor-katepart, libc6
-Filename: ./ubuntu/dists/focal/livetikz_0.3_amd64.deb
+Filename: ./livetikz_0.3_amd64.deb
 Size: 37156
 MD5sum: 5c9295c47f6053b71971ba958eef0ec4
 SHA1: 8f1688d7e61f4a9fe33fa4bcf48660408bbf64e3
