@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Wed, 25 Mar 2020 21:50:50 +0000
+MD5Sum:
+ 5567e33b4477dc7cf000bd8c27d3bd7b              525 Packages
+ 1c781b7ac50f80326ea962d122aef576              399 Packages.gz
+ dcf9841cd24c6fc2371e37b2c4fc894b               38 Release
+ 0d5eab4e967c1af6419557b6742f6d05              506 ubuntu/dists/focal/Packages
+ 71989c0f1aaf57c0af523bd0bed2940e              386 ubuntu/dists/focal/Packages.gz
+ 25928b98fc271ed5f51b4f1f9b3d482d             1204 ubuntu/dists/focal/Release
+SHA1:
+ 9e4f268c46febfd15d25ec01f56c5ab357e95615              525 Packages
+ 3a6477e48cb1686ddd7ee29c231b92043ceb0077              399 Packages.gz
+ 36e1f90c70137365fa2c5cc31ac0a384f102df5e               38 Release
+ e204c3ea8b315225fe42b81b5161de4220fdb71d              506 ubuntu/dists/focal/Packages
+ 4f54b6b417f3da80efa46affde3c207be28d97ce              386 ubuntu/dists/focal/Packages.gz
+ f78ec7af472d248fd3220edf2268aac22a65052d             1204 ubuntu/dists/focal/Release
+SHA256:
+ f797fdf1b9a46f18de9906ffe4d72ec126f613a8d58841a797b0c077ec005467              525 Packages
+ 198845514b91bb6d6d80b02431163711c439da04a46fa94f9373e2719a349deb              399 Packages.gz
+ 01314feb5efe127b7924d955edaeebc88f6c10896053b7209a7353b3404404ac               38 Release
+ 920779cfa5f56508c8675e61b939a120d4a24a0d25d5a8080bca9a918b8f06f7              506 ubuntu/dists/focal/Packages
+ 00864dd4afee8b03e6e4f68728e98e7e2caff6bb1511b435383235c409fc422d              386 ubuntu/dists/focal/Packages.gz
+ e7548ffd35e2e030ac9dd1b59572bf85a66866684a089b31feeff71fc7e5397e             1204 ubuntu/dists/focal/Release
+SHA512:
+ 298dc92764948db7b5864c81a839394240c83601c5a6c4cb5699a8d28b6d30675e4238c82525045df1f42011b853129e8a36ee56110486cec8aa6c85ab111239              525 Packages
+ 4c35f0e8e7d0904f992ab93468e5b50b7e54a4c1ffd3da2507e48b00fcf5d796c390b1ad1292b5b37602b07c243326988d3e8988e9aaffde183e554d846626ca              399 Packages.gz
+ 5b259655a2fbc143fb67fde4bf4a5c602907915798d7f5a525a716ec41248bd8d251891a58bbc14b12ccf8e9e12997f58d14b1370490fd1458a200f5a579dc2e               38 Release
+ bd6101f6d1b155f23bcb56668163631d40ee85d4bfe4fc43dca0a447c49e209499f50d906e733884c429ea4ecea516064544091b7c96dadeb9ababdb8bec9c5e              506 ubuntu/dists/focal/Packages
+ 499e03b9f4a6c5ce0eaa9087fff7b5285dc8a7357de1935f5365bc26785d50064fb2302205fa52976f4f92feee9905c3c396007566ecc9ef1495508b2efacc37              386 ubuntu/dists/focal/Packages.gz
+ 306f7cfc5845bdbc1cc56f8565a5eb351413ae11e4ba8bbec3670483e1c573425ae6ce506b4ca8aa84d209808832efe35d610ee294ae8a992f42f15e025b2bcb             1204 ubuntu/dists/focal/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEGRAB/NGgSQ/Ehr5IhtE4ukBokugFAl570joACgkQhtE4ukBo
+kuiMog/+PRuf1Ha6LoG6NGYZTtOzu+ryFHbJGJol/iz7AQfhEMeiY2ms/0NiFT1R
+uxY2WCc/RxLK5yn0oYW8acShVhaMioNQS7MGWS+QeEvXOOkPD7XYKztc4ooq2rvK
+M926etU5p5Q2yiF9PUtbxGoT0azMvSEeKIhK5vwE+hxgAtXdYvJzRYOdw+Et3jBA
+UjLSGGIKcYj292p8VO5v+AYhDG/icnjg79ATvXO0pykL29ZAaa8cFL8Xp90F7l9m
+W3o4JeGp/DAUXgRH8IcG6tkZEUiFtKjEnUaJvIKJj+KtkM5+ALkC4CpT4jM/JrC3
+76le7YdFyGwdFqXkCtymtyikxnSYrO/3hcdZaQsF2eg21bEOqOlPZibjEVxfQUHS
+KKtM04IZ1u8kfnfuWv8v0th8c6do6BtE+J/EdQDpPk8iicIYNRaTUT8+SVqiyYOo
+hJn1eFtKH4+xuOKDsr/cguYkh9yANNjgDXhw8lL+j5Am6etND1QYH6f+Il/TAQTu
+tnYd4Zq1XtbRW+uX+m/RSQemUC97CVLYSiQDi/x0WXB1Xps76f4CoCC834nNnGHY
+kvSRsOIonSCrb+c03wB2tzIY3/Znwd3r7cvJDb/vXulDrim9YsdRVyrHo3OdzAWy
+Tt/3VxC7W88sOMEAIRngbWI8p+hJne+i4zYY7R/uDVwCxs+NB4Q=
+=4v4M
+-----END PGP SIGNATURE-----
