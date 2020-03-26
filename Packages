@@ -1,3 +1,18 @@
+Package: livehist
+Version: 0.1
+Architecture: amd64
+Maintainer: Michael Schwarz <michael.schwarz91@gmail.com>
+Depends: libstdc++6, libc6
+Filename: ./livehist_0.1_amd64.deb
+Size: 13072
+MD5sum: 18ac19aa8e221cb6a02f3b1ab22b5976
+SHA1: c3bc22f2124f415b6fb407dcfb43fb33143c3b28
+SHA256: f11721d8117daa22c1dfadd48cbb04f002cb30fc109884e1a2697519f1c25ee6
+Section: devel
+Priority: optional
+Description: Real-time histogram for data streams
+ A command line tool to show a real-time histogram of a data stream.
+
 Package: livetikz
 Version: 0.3
 Architecture: amd64
