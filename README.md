@@ -10,3 +10,10 @@ Then, you can install the packages found in this repository by simply running
 
     sudo apt install <package name>
     
+# Contents
+
+The repository contains the following software
+
+* [LiveTikZ](https://github.com/misc0110/LiveTikZ)
+* [Live Histogram](https://github.com/misc0110/livehist)
+* [LaTeX Beamer Preview](https://github.com/misc0110/beamer-preview)
