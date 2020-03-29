@@ -14,15 +14,15 @@ Description: LaTeX beamer-slide preview
  Recompile only modified slides for LaTeX Beamer presentations in parallel.
 
 Package: livehist
-Version: 0.1.1
+Version: 0.1.2
 Architecture: amd64
 Maintainer: Michael Schwarz <michael.schwarz91@gmail.com>
 Depends: libstdc++6, libc6
-Filename: ./livehist_0.1.1_amd64.deb
-Size: 14280
-MD5sum: 495bd26855e4ce432739599a1935f944
-SHA1: d04d5e9b7b968d1528c677919af0ab881b0e08f3
-SHA256: ddf6ede8a2b37c20455ecc7c43ef75a000fbdde2fd198af3601ced7b5c1e8b74
+Filename: ./livehist_0.1.2_amd64.deb
+Size: 14212
+MD5sum: c4be6ec096cd56f3c8289f2b8a0cead1
+SHA1: 44089f33a9106f2d6323bf3d5bde33743de6c281
+SHA256: 11c6e48c0f2eb8e4ca4c36e0219792978bb74f01ca7662dfc49977acbd430a7f
 Section: devel
 Priority: optional
 Description: Real-time histogram for data streams
