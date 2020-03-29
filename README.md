@@ -17,3 +17,4 @@ The repository contains the following software
 * [LiveTikZ](https://github.com/misc0110/LiveTikZ)
 * [Live Histogram](https://github.com/misc0110/livehist)
 * [LaTeX Beamer Preview](https://github.com/misc0110/beamer-preview)
+* [PTEditor Kernel Module](https://github.com/misc0110/PTEditor)
