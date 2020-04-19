@@ -43,6 +43,21 @@ Priority: optional
 Description: Live preview for TikZ drawings
  A live preview for TikZ drawings.
 
+Package: pdf-webslides
+Version: 0.1
+Architecture: amd64
+Maintainer: Michael Schwarz <michael.schwarz91@gmail.com>
+Depends: libpoppler-glib8, libcairo2, libc6
+Filename: ./pdf-webslides_0.1_amd64.deb
+Size: 17972
+MD5sum: c469b144d9050fde6f47bbb6811f1964
+SHA1: 5e6d2a5a02605f56bd659f12ee04cd615df731f8
+SHA256: d76df31fd08c98e239d4ec7f332d63f5cec51f174815bd9129feb2073eb667f6
+Section: devel
+Priority: optional
+Description: Convert PDF presentations to HTML
+ Converts PDF presentations to HTML5 file, including presenter mode.
+
 Package: pteditor-dkms
 Version: 0.2
 Architecture: all
