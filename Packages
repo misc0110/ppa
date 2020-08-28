@@ -59,28 +59,15 @@ Description: Convert PDF presentations to HTML
  Converts PDF presentations to HTML5 file, including presenter mode.
 
 Package: pteditor-dkms
-Version: 0.2
+Version: 0.3.2
 Architecture: all
 Maintainer: Michael Schwarz <michael.schwarz91@gmail.com>
-Installed-Size: 30
+Installed-Size: 78
 Depends: dkms (>= 2.1.0.0)
-Filename: ./pteditor-dkms_0.2_all.deb
-Size: 6008
-MD5sum: f4e2db00f7ccb1916a3594077f7927b2
-SHA1: f5cfb420cb2361f771647f81ef463a6183f81b7d
-SHA256: f421a4c1d107c0d2e4d4c1458e657470d995e601ff4a6d0c302085415165f126
-Description: DKMS source for PTEditor
-
-Package: pteditor-dkms
-Version: 0.3.1
-Architecture: all
-Maintainer: Michael Schwarz <michael.schwarz91@gmail.com>
-Installed-Size: 83
-Depends: dkms (>= 2.1.0.0)
-Filename: ./pteditor-dkms_0.3.1_all.deb
-Size: 13688
-MD5sum: 1c3040c12e54a4b41c3916ed60702750
-SHA1: 3caba8dc66318846f119f497ca8495dd5190fd6e
-SHA256: 144d3a54a7083190765b2924bbaa4e747b428068f75c0b7d5540e2be4cbb29b6
+Filename: ./pteditor-dkms_0.3.2_all.deb
+Size: 12400
+MD5sum: 2f485e348e5b17ef849345a8b7a7d1d4
+SHA1: 8d747eedb2374cd47ad05665a78a1b8e94a9e37f
+SHA256: bdb712e656b00f195b68a2f7411b5c3b3f3e16bb9ed339e49e53b9d2fab4014b
 Description: DKMS source for PTEditor
 
