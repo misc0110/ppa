@@ -43,6 +43,21 @@ Priority: optional
 Description: Live preview for TikZ drawings
  A live preview for TikZ drawings.
 
+Package: livetikz
+Version: 0.5
+Architecture: amd64
+Maintainer: Michael Schwarz <michael.schwarz91@gmail.com>
+Depends: libpoppler-qt5-1, texlive-latex-base, ktexteditor-katepart, libc6
+Filename: ./livetikz_0.5_amd64.deb
+Size: 40964
+MD5sum: 007e7f4ad5e8df94661a7a2494adc259
+SHA1: 861255570b4f6a7f6d28a838c7d3d0e70be5ba6e
+SHA256: 778e9363ccdacf2c9ada1c05b9c53ef49f89dca575ee0caed1c42ca9816b13df
+Section: devel
+Priority: optional
+Description: Live preview for TikZ drawings
+ A live preview for TikZ drawings.
+
 Package: pdf-webslides
 Version: 0.1
 Architecture: amd64
