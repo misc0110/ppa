@@ -79,10 +79,10 @@ Architecture: amd64
 Maintainer: Michael Schwarz <michael.schwarz91@gmail.com>
 Depends: libpoppler-glib8, libcairo2, libc6
 Filename: ./pdf-webslides_0.2_amd64.deb
-Size: 18224
-MD5sum: 9b45c01214244e377b059bffd0a5745d
-SHA1: 446d7ed9ffc6f8c71c6d25eadf852b752c7dcf0e
-SHA256: 8e7f267832983fcaa22c250848a4895734d042d61981159cf26db0621d047d1b
+Size: 18232
+MD5sum: 42566dcdea2b1cb7613d3d45992d421d
+SHA1: b79c57ab6c31717cc9ecc553f3c9907e8aac11c5
+SHA256: dab14a0f42358f408a8864448ed7a1adafd332b16e547b2c0632b02b28bcc722
 Section: devel
 Priority: optional
 Description: Convert PDF presentations to HTML
