@@ -18,3 +18,5 @@ The repository contains the following software
 * [Live Histogram](https://github.com/misc0110/livehist)
 * [LaTeX Beamer Preview](https://github.com/misc0110/beamer-preview)
 * [PTEditor Kernel Module](https://github.com/misc0110/PTEditor)
+* [PDF Web Slides](https://github.com/misc0110/pdf-webslides)
+* [boot-into](https://github.com/misc0110/boot-into)
