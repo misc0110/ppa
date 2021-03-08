@@ -13,6 +13,21 @@ Priority: optional
 Description: LaTeX beamer-slide preview
  Recompile only modified slides for LaTeX Beamer presentations in parallel.
 
+Package: boot-into
+Version: 0.1
+Architecture: amd64
+Maintainer: Michael Schwarz <michael.schwarz91@gmail.com>
+Depends: python3
+Filename: ./boot-into_0.1_amd64.deb
+Size: 2280
+MD5sum: 30c4c28abb380d1c603d421c77172b4e
+SHA1: 89125e781808e1832fa2e48d558e31f1130ef762
+SHA256: c731604d6458317a7127955e033ca3fe9ed6e806a33e09a5357867b92ae9f93f
+Section: devel
+Priority: optional
+Description: Boot into a specific GRUB entry
+ Shows a list of available GRUB entry and reboots into the selected entry only on the next boot
+
 Package: livehist
 Version: 0.1.2
 Architecture: amd64
