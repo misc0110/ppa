@@ -13,6 +13,21 @@ Priority: optional
 Description: LaTeX beamer-slide preview
  Recompile only modified slides for LaTeX Beamer presentations in parallel.
 
+Package: beamer-preview
+Version: 0.3
+Architecture: amd64
+Maintainer: Michael Schwarz <michael.schwarz91@gmail.com>
+Depends: python3-pypdf2, python3-colorlog, python3-watchdog, python3
+Filename: ./beamer-preview_0.3_amd64.deb
+Size: 12000
+MD5sum: 67dbfdb626520ad3b6b66b3c7747b012
+SHA1: a0e11de0af1e7748d631736acd13fa47759cd6ba
+SHA256: 4b8d49abcbacb96588a3d0f3c8a04f97f2a8de5dc3ff31dfef8f433ac105e997
+Section: devel
+Priority: optional
+Description: LaTeX beamer-slide preview
+ Recompile only modified slides for LaTeX Beamer presentations in parallel.
+
 Package: boot-into
 Version: 0.1
 Architecture: amd64
