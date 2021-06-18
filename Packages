@@ -146,3 +146,16 @@ SHA1: eb50e7e3609ecb17042e17e879d08b687afae06c
 SHA256: 30efef3cd6d1cdc89d1885c051f576ab357caa4c94521ee641480f27135b5b3f
 Description: DKMS source for PTEditor
 
+Package: pteditor-dkms
+Version: 0.4.3
+Architecture: all
+Maintainer: Michael Schwarz <michael.schwarz91@gmail.com>
+Installed-Size: 86
+Depends: dkms (>= 2.1.0.0)
+Filename: ./pteditor-dkms_0.4.3_all.deb
+Size: 14060
+MD5sum: 556d70cd9886ed3a30494f443616a528
+SHA1: 83838b1695b6bdef677059874498a2da6b9ba37c
+SHA256: 146f2ce2040b5c5c6fc49bdd2478411032ad00bcefee53f6a5990ce99452cc1b
+Description: DKMS source for PTEditor
+
