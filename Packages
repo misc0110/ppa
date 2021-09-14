@@ -133,6 +133,21 @@ Priority: optional
 Description: Convert PDF presentations to HTML
  Converts PDF presentations to HTML5 file, including presenter mode.
 
+Package: pdf-webslides
+Version: 0.4
+Architecture: amd64
+Maintainer: Michael Schwarz <michael.schwarz91@gmail.com>
+Depends: libpoppler-glib8, libcairo2, libc6
+Filename: ./pdf-webslides_0.4_amd64.deb
+Size: 19836
+MD5sum: a9c899c51ec235af1f1a0dc3976a2c65
+SHA1: 53ce389f964a1c5a4b165202fb52827bf4bf326a
+SHA256: 8f1933e51b2584c8c14edc05e55b4d67053daaae0889816d9b70ff9d835a87ad
+Section: devel
+Priority: optional
+Description: Convert PDF presentations to HTML
+ Converts PDF presentations to HTML5 file, including presenter mode.
+
 Package: pteditor-dkms
 Version: 0.4.2
 Architecture: all
