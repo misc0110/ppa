@@ -88,6 +88,21 @@ Priority: optional
 Description: Live preview for TikZ drawings
  A live preview for TikZ drawings.
 
+Package: magic-wormhole-dolphin
+Version: 0.1
+Architecture: amd64
+Maintainer: Michael Schwarz <michael.schwarz91@gmail.com>
+Depends: dolphin
+Filename: ./magic-wormhole-dolphin_0.1_amd64.deb
+Size: 1176
+MD5sum: d9017dd32fbe8b18eaa92aad2d23b6bf
+SHA1: c8e8d57496d267bc9d3bbaa4131fa830515a4370
+SHA256: 858a18f59405384af01916306ff87dce6a6350ed4b19a0fc86c68e62249a4a1c
+Section: utils
+Priority: optional
+Description: Magic Wormhole context-menu entry for Dolphin
+ Adds a context-menu entry for every file to Dolphin to send it with Magic Wormhole
+
 Package: pdf-webslides
 Version: 0.1
 Architecture: amd64

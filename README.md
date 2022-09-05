@@ -20,3 +20,4 @@ The repository contains the following software
 * [PTEditor Kernel Module](https://github.com/misc0110/PTEditor)
 * [PDF Web Slides](https://github.com/misc0110/pdf-webslides)
 * [boot-into](https://github.com/misc0110/boot-into)
+* [magic-wormhole-dolphin](https://github.com/misc0110/wormhole-context-menu)
