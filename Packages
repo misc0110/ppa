@@ -43,6 +43,21 @@ Priority: optional
 Description: Boot into a specific GRUB entry
  Shows a list of available GRUB entry and reboots into the selected entry only on the next boot
 
+Package: boot-into
+Version: 0.2
+Architecture: amd64
+Maintainer: Michael Schwarz <michael.schwarz91@gmail.com>
+Depends: python3
+Filename: ./boot-into_0.2_amd64.deb
+Size: 3290
+MD5sum: 58679866f9bd60b3c40f97b613bc73e4
+SHA1: 6cbcbd7c86a22c8732d6e2b1b600e27fb84febc7
+SHA256: bfba8d60e825e1567a58185d766fff322371f547abbe2b0f926347b13883d611
+Section: devel
+Priority: optional
+Description: Boot into a specific GRUB entry
+ Shows a list of available GRUB entry and reboots into the selected entry only on the next boot
+
 Package: livehist
 Version: 0.1.2
 Architecture: amd64
@@ -226,5 +241,18 @@ Size: 8260
 MD5sum: 05fdf1d68010a24609e1857409919db2
 SHA1: 3d68d4f0a4defdd1f8741686992951059ad67cc2
 SHA256: f176163eeec55d53fe487a0a5bea16bc80d03410840330788f3daed934be0a36
+Description: DKMS source for PTEditor
+
+Package: pteditor-dkms
+Version: 0.8
+Architecture: all
+Maintainer: Michael Schwarz <michael.schwarz91@gmail.com>
+Installed-Size: 920
+Depends: dkms (>= 2.1.0.0)
+Filename: ./pteditor-dkms_0.8_all.deb
+Size: 133972
+MD5sum: 578d538f09a2334b76d139c643cff278
+SHA1: 72693628820f1c89d0cc18a577b41f9adbe45a46
+SHA256: f692f2663eaed0d3173abdadab494e6ea5f9683cdffc2377c9d925e5f2779805
 Description: DKMS source for PTEditor
 
