@@ -103,6 +103,21 @@ Priority: optional
 Description: Live preview for TikZ drawings
  A live preview for TikZ drawings.
 
+Package: livetikz
+Version: 0.6
+Architecture: amd64
+Maintainer: Michael Schwarz <michael.schwarz91@gmail.com>
+Depends: libpoppler-qt5-1, texlive-latex-base, ktexteditor-katepart, libc6
+Filename: ./livetikz_0.6_amd64.deb
+Size: 54614
+MD5sum: a55b7c2c5ad6c8ae0914bf7124e05a91
+SHA1: 45ae3898cf52a09f401ef6b54328115a0f5f379d
+SHA256: 9afaee0bfce654dd88b569160f1dfe1875c2ca38ef5549cdfe34ca0620a9f2ae
+Section: devel
+Priority: optional
+Description: Live preview for TikZ drawings
+ A live preview for TikZ drawings.
+
 Package: magic-wormhole-dolphin
 Version: 0.1
 Architecture: amd64
